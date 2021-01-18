@@ -24,5 +24,8 @@
 // }
 
 // module.exports = Logger;
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 312ac86... i have modify the logger.js file
