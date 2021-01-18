@@ -91,4 +91,8 @@ server.listen(3000);
 
 console.log('listening new port');
 
+<<<<<<< HEAD
 //new functionality added on branch in andrewbug12 added
+=======
+//new functionality added on branch in andrewbug12 modified
+>>>>>>> andrewbug
