@@ -25,7 +25,10 @@
 
 // module.exports = Logger;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 312ac86... i have modify the logger.js file
 =======
 >>>>>>> parent of 312ac86... i have modify the logger.js file
