@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/madhavmaddy/learn-node-js#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
     "mongoose": "^5.11.11",
     "underscore": "^1.12.0"
   }
