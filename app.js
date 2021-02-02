@@ -1,13 +1,15 @@
+
 //import log and endpoint from logger.js
 // const logger = require('./logger');
 
 // logger.result('Hello')
 // console.log(logger.endPoint)
 
-//path module in node js
+// path module in node js
 // const path = require('path');
 // const pathObj = path.parse(__filename);
 // console.log(pathObj.base)
+console.log(__filename)
 
 //Os module in node js
 // const os = require('os');
@@ -211,4 +213,11 @@ console.log(`name: ${config.get("name")}`);
 // }
 
 //connecting to mongo db
+
+
+///making global variable
+import raven from '../learn-node-js/logger'
+// const raven = require('./logger')
+global.raven = raven;
+
 
